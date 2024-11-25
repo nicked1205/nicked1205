@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Cat Tuong Anh Nguyen
+**👋 Hi, I’m Cat Tuong Anh Nguyen**
+
 - 👀 I’m interested in Software Engineering/Development and AI
 - 🌱 I’m currently learning Computing and Software Systems at the University of Melbourne, and will be graduating in May 2025
 - 📫 How to reach me: nick.nguyen2150@gmail.com
